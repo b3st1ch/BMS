@@ -9,4 +9,4 @@ Bank management application; Deposit, withdraw, cash trasfer, creating profile
 Login - User
 Password - 0987321login
 
-when creating an account, suggest you to notice your accid and phone number. This two options are required for checking your profile
+When creating an account, suggest you to notice your accid and phone number. This two options are required for checking your profile
