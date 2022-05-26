@@ -1,0 +1,13 @@
+0q.1==========
+    - First version
+;
+
+1.00==========
+    - Release
+;
+
+1.1 ==========
+    - Added app icon for exe-file
+    - Added proccess icons
+    - Changed data for logining to the app
+;
