@@ -7,6 +7,6 @@ Bank management application; Deposit, withdraw, cash trasfer, creating profile
 📫 How to reach me stbestich@gmail.com
 
 Login - User
-Password - 0987321login
+Password - login
 
 When creating an account, suggest you to notice your accid and phone number. This two options are required for checking your profile
