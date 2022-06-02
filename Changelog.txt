@@ -12,6 +12,10 @@
     - Changed data for logining to the app
 ;
 
+1q.1==========
+    - Little UI fix
+;
+
 1.2 ==========
     -Added a calculator
 ;
