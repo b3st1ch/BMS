@@ -11,3 +11,7 @@
     - Added proccess icons
     - Changed data for logining to the app
 ;
+
+1.2 ==========
+    -Added a calculator
+;
